@@ -1,0 +1,29 @@
+[
+  {
+    "id": "concert_manual_icheon_choihyunwoo_20261114",
+    "kind": "concert",
+    "category": "magic",
+    "title": "최현우 19+I - 이천",
+    "artist": "최현우",
+    "genre": "마술쇼",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-15",
+    "region": "경기도 이천시",
+    "venue": "이천아트홀 대공연장",
+    "address": "경기도 이천시 부악로 40",
+    "description": "최현우 마술 공연. 11월 14일(토) 15:00·19:00, 11월 15일(일) 14:00·18:00. 공연 시간 110분, 초등학생 이상 관람. R석 99,000원 / S석 77,000원 / A석 55,000원 / B석 33,000원. 주최·주관: 이천시·이천문화재단. 예매 시작은 2026년 7월 2일 14시로 이미 지났습니다. 잔여석·변경·취소 공지는 예매처에서 확인하세요. 문의 031-636-2202.",
+    "sourceUrl": "https://www.artic.or.kr/base/board/read?boardManagementNo=23&boardNo=3854&menuLevel=3&menuNo=71",
+    "sourceName": "이천문화재단 공식 티켓오픈 공지 · 직접 확인",
+    "bookingUrl": "https://nol.yanolja.com/ticket/products/26009532",
+    "bookingLabel": "NOL 티켓 예매",
+    "sales": [
+      {
+        "label": "일반예매",
+        "at": "2026-07-02T14:00:00+09:00",
+        "sourceUrl": "https://www.artic.or.kr/base/board/read?boardManagementNo=23&boardNo=3854&menuLevel=3&menuNo=71"
+      }
+    ],
+    "checkedAt": "2026-09-26T13:15:55.185Z",
+    "manual": true
+  }
+]
