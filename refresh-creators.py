@@ -1,8 +1,51 @@
 """Public channel refresh. No private API, cookies or invented coordinates."""
-import json,re,urllib.request,datetime,time,sys
+import json,re,urllib.request,urllib.parse,urllib.error,datetime,time,sys,os
 from pathlib import Path
 CHANNEL='UCzt8rlZjpyP4i7U2U8PBRVA'
 ROOT=Path(__file__).resolve().parent
+
+def youtube_api(resource,params):
+ key=os.environ.get('YOUTUBE_API_KEY','').strip()
+ if not key:raise ValueError('YOUTUBE_API_KEY is not configured')
+ url='https://www.googleapis.com/youtube/v3/'+resource+'?'+urllib.parse.urlencode(params)
+ for attempt in range(3):
+  try:
+   request=urllib.request.Request(url,headers={'X-Goog-Api-Key':key,'Accept':'application/json'})
+   with urllib.request.urlopen(request,timeout=30) as response:return json.load(response)
+  except urllib.error.HTTPError as e:
+   if (e.code==429 or e.code>=500) and attempt<2:
+    time.sleep(2**attempt);continue
+   raise ValueError('YouTube API HTTP '+str(e.code)+'; check activation, restrictions and quota') from None
+  except (OSError,TimeoutError):
+   if attempt==2:raise ValueError('YouTube API connection failed') from None
+   time.sleep(2**attempt)
+
+def official_videos():
+ channels=youtube_api('channels',{'part':'contentDetails','id':CHANNEL}).get('items',[])
+ if len(channels)!=1 or channels[0].get('id')!=CHANNEL:raise ValueError('Channel identity mismatch')
+ playlist=channels[0]['contentDetails']['relatedPlaylists']['uploads']
+ ids=[];token='';seen=set()
+ while True:
+  args={'part':'contentDetails','playlistId':playlist,'maxResults':50}
+  if token:args['pageToken']=token
+  result=youtube_api('playlistItems',args)
+  ids.extend(x['contentDetails']['videoId'] for x in result.get('items',[]))
+  token=result.get('nextPageToken','')
+  if not token:break
+  if token in seen:raise ValueError('Repeated pagination token')
+  seen.add(token)
+ ids=list(dict.fromkeys(ids))
+ if not ids:raise ValueError('No public uploads returned')
+ details={}
+ for start in range(0,len(ids),50):
+  result=youtube_api('videos',{'part':'snippet,status','id':','.join(ids[start:start+50])})
+  for item in result.get('items',[]):
+   snippet=item.get('snippet',{})
+   if snippet.get('channelId')!=CHANNEL:raise ValueError('Video channel identity mismatch')
+   if item.get('status',{}).get('privacyStatus')!='public':continue
+   details[item['id']]={'videoId':item['id'],'channelId':CHANNEL,'title':snippet['title'],'shortDescription':snippet.get('description',''),'publishedAt':snippet.get('publishedAt','')}
+ if not details:raise ValueError('No public video descriptions returned')
+ return details
 
 def get(url):
  for attempt in range(3):
@@ -47,6 +90,8 @@ def stops(body,known):
   if dm:day=min(14,max(1,int(dm[1])))
   # A delimiter distinguishes itinerary times from video chapter timestamps.
   m=re.match(r'^\D*?((?:[01]?\d|2[0-3]):[0-5]\d)\s*(?:[~～–-]\s*((?:[01]?\d|2[0-3]):[0-5]\d)?\s*\||\|)\s*(.+)$',line)
+  if not m and any(re.match(r'^\s*(?:📍|주소\s*[:：]|위치\s*[:：])',a) for a in lines[i+1:i+3]):
+   m=re.match(r'^\D*?((?:[01]?\d|2[0-3]):[0-5]\d)\s*(?:[~～–-]\s*((?:[01]?\d|2[0-3]):[0-5]\d)?)?\s+(.+)$',line)
   if not m or int(m[1].split(':')[0])<6:continue
   name=m[3].strip()[:120];address=''
   for nextline in lines[i+1:i+5]:
@@ -64,26 +109,30 @@ def refresh():
  items={c['videoUrl']:c for c in seed['courses']};items.update({c['videoUrl']:c for c in old['courses']})
  now=datetime.datetime.now(datetime.timezone.utc).isoformat();errors=[];excluded=[];pending=[]
  try:
-  page=get('https://www.youtube.com/@bolbolbbu.travel/videos')
-  external=re.search(r'"externalId":"([^"]+)"',page)
-  if not external or external[1]!=CHANNEL:raise ValueError('Channel identity mismatch')
-  ids=list(dict.fromkeys(re.findall(r'"videoId":"([A-Za-z0-9_-]{11})"',page)))[:30]
-  if not ids:raise ValueError('No public videos found')
-  titles=channel_titles(embedded(page,'ytInitialData'))
+  details={};mode='public-page'
+  if os.environ.get('YOUTUBE_API_KEY','').strip():
+   mode='youtube-data-api-v3';details=official_videos();ids=list(details);titles={vid:d['title'] for vid,d in details.items()}
+  else:
+   page=get('https://www.youtube.com/@bolbolbbu.travel/videos')
+   external=re.search(r'"externalId":"([^"]+)"',page)
+   if not external or external[1]!=CHANNEL:raise ValueError('Channel identity mismatch')
+   ids=list(dict.fromkeys(re.findall(r'"videoId":"([A-Za-z0-9_-]{11})"',page)))[:30]
+   if not ids:raise ValueError('No public videos found')
+   titles=channel_titles(embedded(page,'ytInitialData'))
   known=[s for c in seed['courses'] for s in c.get('stops',[])]
   for vid in ids:
    url='https://www.youtube.com/watch?v='+vid
    try:
-    detail=embedded(get(url),'ytInitialPlayerResponse').get('videoDetails',{})
+    detail=details[vid] if mode=='youtube-data-api-v3' else embedded(get(url),'ytInitialPlayerResponse').get('videoDetails',{})
     if detail.get('channelId')!=CHANNEL or detail.get('videoId')!=vid:raise ValueError('Video identity unavailable')
     title=detail['title'];body=detail.get('shortDescription','');region=classify(title,body,seed['regions'])
     if not region:excluded.append(vid);continue
     existing=items.get(url)
-    if existing and existing['body'].strip()==body.strip() and existing['title']==title:continue
+    if existing and existing['body'].strip()==body.strip() and existing['title']==title and existing.get('stops'):continue
     parsed=stops(body,known)
     # Keep curated geocoding when the source schedule has not changed.
-    if existing and existing['body'].strip()==body.strip():parsed=existing.get('stops',[])
-    items[url]=dict(id=existing['id'] if existing else 'youtube_'+vid.lower(),region=region,title=title[:120],body=(body or title)[:20000],summary='',videoUrl=url,verified=True,checkedAt=now[:10],sourceChannelId=CHANNEL,stops=parsed)
+    if existing and existing['body'].strip()==body.strip() and existing.get('stops'):parsed=existing['stops']
+    items[url]=dict(id=existing['id'] if existing else 'youtube_'+vid.lower(),region=region,title=title[:120],body=(body or title)[:20000],summary='',videoUrl=url,verified=True,checkedAt=now[:10],sourceChannelId=CHANNEL,stops=parsed,descriptionStatus='complete',scheduleStatus='parsed' if parsed else 'needs-review')
    except Exception as e:
     # Public channel cards can be read even when watch-page details are unavailable.
     # Preserve known schedules; never invent a new video's description or stops.
@@ -94,13 +143,13 @@ def refresh():
     if not region:excluded.append(vid);continue
     pending.append(vid)
     if url not in items:
-     items[url]=dict(id='youtube_'+vid.lower(),region=region,title=title[:120],body=title,summary='',videoUrl=url,verified=True,checkedAt=now[:10],sourceChannelId=CHANNEL,stops=[])
+     items[url]=dict(id='youtube_'+vid.lower(),region=region,title=title[:120],body=title,summary='',videoUrl=url,verified=False,checkedAt=now[:10],sourceChannelId=CHANNEL,stops=[],descriptionStatus='pending')
 
   if len(errors)==len(ids):raise ValueError('All video detail requests failed')
-  data={'kind':'bolbolplan-courses','version':1,'updatedAt':now,'channelId':CHANNEL,'source':{'ok':not errors,'errors':errors,'excluded':excluded,'descriptionPending':pending},'courses':list(items.values())}
+  data={'kind':'bolbolplan-courses','version':1,'updatedAt':now,'channelId':CHANNEL,'source':{'ok':not errors and not pending,'mode':mode,'errors':errors,'excluded':excluded,'descriptionPending':pending},'courses':list(items.values())}
   temp=target.with_suffix('.tmp');temp.write_text(json.dumps(data,ensure_ascii=False),encoding='utf-8');temp.replace(target)
   print(json.dumps({'courses':len(items),'checked':len(ids),'excluded':len(excluded),'errors':errors}))
-  return not errors
+  return not errors and not pending
  except Exception as e:
   print('Refresh failed; previous feed preserved:',e,file=sys.stderr);return False
 if __name__=='__main__':sys.exit(0 if refresh() else 1)
