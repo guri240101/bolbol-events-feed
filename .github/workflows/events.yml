@@ -30,6 +30,8 @@ jobs:
         run: node refresh-events.mjs
       - name: Refresh domestic YouTube videos
         id: creators
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python3 refresh-creators.py
         continue-on-error: true
       - name: Preserve latest feed
