@@ -17,6 +17,20 @@ def embedded(text,name):
  if not m:raise ValueError('Public YouTube metadata unavailable')
  return json.JSONDecoder().raw_decode(text[m.end():])[0]
 
+def channel_titles(data):
+ result={}
+ def walk(x):
+  if isinstance(x,dict):
+   r=x.get('lockupViewModel',{})
+   vid=r.get('contentId','');title=r.get('metadata',{}).get('lockupMetadataViewModel',{}).get('title',{}).get('content','')
+   if re.fullmatch(r'[A-Za-z0-9_-]{11}',vid) and title:result[vid]=title
+   r=x.get('videoRenderer',{})
+   if r.get('videoId') and r.get('title'):result[r['videoId']]=''.join(v.get('text','') for v in r['title'].get('runs',[]))
+   for v in x.values():walk(v)
+  elif isinstance(x,list):
+   for v in x:walk(v)
+ walk(data);return result
+
 def classify(title,body,regions):
  if re.search(r'일본|도쿄|오사카|후쿠오카|교토|대만|타이베이|태국|방콕|베트남|다낭|나트랑|싱가포르|홍콩|마카오|발리|미국|유럽|해외|중국|괌|사이판|필리핀|세부|하와이|몽골|호주|파리|런던',title):return None
  for r in regions:
@@ -48,13 +62,14 @@ def refresh():
  seed=json.loads((ROOT/'creator-seeds.json').read_text(encoding='utf-8'));target=ROOT/'creator-feed.json'
  old=json.loads(target.read_text(encoding='utf-8')) if target.exists() else {'courses':[]}
  items={c['videoUrl']:c for c in seed['courses']};items.update({c['videoUrl']:c for c in old['courses']})
- now=datetime.datetime.now(datetime.timezone.utc).isoformat();errors=[];excluded=[]
+ now=datetime.datetime.now(datetime.timezone.utc).isoformat();errors=[];excluded=[];pending=[]
  try:
   page=get('https://www.youtube.com/@bolbolbbu.travel/videos')
   external=re.search(r'"externalId":"([^"]+)"',page)
   if not external or external[1]!=CHANNEL:raise ValueError('Channel identity mismatch')
   ids=list(dict.fromkeys(re.findall(r'"videoId":"([A-Za-z0-9_-]{11})"',page)))[:30]
   if not ids:raise ValueError('No public videos found')
+  titles=channel_titles(embedded(page,'ytInitialData'))
   known=[s for c in seed['courses'] for s in c.get('stops',[])]
   for vid in ids:
    url='https://www.youtube.com/watch?v='+vid
@@ -69,9 +84,20 @@ def refresh():
     # Keep curated geocoding when the source schedule has not changed.
     if existing and existing['body'].strip()==body.strip():parsed=existing.get('stops',[])
     items[url]=dict(id=existing['id'] if existing else 'youtube_'+vid.lower(),region=region,title=title[:120],body=(body or title)[:20000],summary='',videoUrl=url,verified=True,checkedAt=now[:10],sourceChannelId=CHANNEL,stops=parsed)
-   except Exception as e:errors.append({'videoId':vid,'error':str(e)[:150]})
+   except Exception as e:
+    # Public channel cards can be read even when watch-page details are unavailable.
+    # Preserve known schedules; never invent a new video's description or stops.
+    title=titles.get(vid)
+    if not title:
+     errors.append({'videoId':vid,'error':str(e)[:150]});continue
+    region=classify(title,'',seed['regions'])
+    if not region:excluded.append(vid);continue
+    pending.append(vid)
+    if url not in items:
+     items[url]=dict(id='youtube_'+vid.lower(),region=region,title=title[:120],body=title,summary='',videoUrl=url,verified=True,checkedAt=now[:10],sourceChannelId=CHANNEL,stops=[])
+
   if len(errors)==len(ids):raise ValueError('All video detail requests failed')
-  data={'kind':'bolbolplan-courses','version':1,'updatedAt':now,'channelId':CHANNEL,'source':{'ok':not errors,'errors':errors,'excluded':excluded},'courses':list(items.values())}
+  data={'kind':'bolbolplan-courses','version':1,'updatedAt':now,'channelId':CHANNEL,'source':{'ok':not errors,'errors':errors,'excluded':excluded,'descriptionPending':pending},'courses':list(items.values())}
   temp=target.with_suffix('.tmp');temp.write_text(json.dumps(data,ensure_ascii=False),encoding='utf-8');temp.replace(target)
   print(json.dumps({'courses':len(items),'checked':len(ids),'excluded':len(excluded),'errors':errors}))
   return not errors
