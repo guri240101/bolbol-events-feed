@@ -44,7 +44,7 @@ jobs:
             git push
           fi
       - name: Prepare public files
-        run: mkdir -p public && cp events-data.json creator-feed.json index.html privacy.html public/
+        run: mkdir -p public && cp events-data.json creator-feed.json index.html privacy.html trip.html public/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
