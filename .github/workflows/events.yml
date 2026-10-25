@@ -25,9 +25,50 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Refresh public source facts
-        if: github.event.schedule != '17 * * * *'
-        run: node refresh-events.mjs
+      - name: Check event feed health
+        id: health
+        run: |
+          cat > /tmp/check-events.cjs <<'NODE'
+          const fs = require('node:fs');
+          try {
+            const d = JSON.parse(fs.readFileSync('events-data.json', 'utf8'));
+            const today = new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Seoul'}).format(new Date());
+            const fresh = v => Number.isFinite(Date.parse(v)) && Date.now()-Date.parse(v)<36*3600000 && Date.parse(v)<=Date.now()+300000;
+            const kinds = ['festival','concert','marathon'];
+            if (!fresh(d.updatedAt) || !Array.isArray(d.events) || !Array.isArray(d.sources)) throw Error('Missing or stale feed');
+            for (const kind of kinds) {
+              const source = d.sources.find(s=>s.kind===kind);
+              if (!source?.ok || !fresh(source.checkedAt) || !d.events.some(e=>e.kind===kind)) throw Error('Unhealthy source: '+kind);
+            }
+            if (d.events.some(e=>(e.endDate||e.startDate)&& (e.endDate||e.startDate)<today)) throw Error('Expired events remain');
+            console.log('All three event sources are healthy');
+          } catch (e) { console.error(e.message); process.exit(1); }
+          NODE
+          if node /tmp/check-events.cjs; then
+            echo 'healthy=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'healthy=false' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Refresh events with bounded automatic recovery
+        if: github.event.schedule != '17 * * * *' || steps.health.outputs.healthy != 'true'
+        run: |
+          for attempt in 1 2 3; do
+            echo "Event collection attempt $attempt of 3"
+            if node refresh-events.mjs && node /tmp/check-events.cjs; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then sleep $((attempt * 30)); fi
+          done
+          echo '::warning::Event recovery exhausted; preserving available data and reporting failure after deployment.'
+      - name: Remove expired events even when upstream is unavailable
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const file='events-data.json', d=JSON.parse(fs.readFileSync(file,'utf8'));
+          const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul'}).format(new Date());
+          d.events=d.events.filter(e=>{const end=e.endDate||e.startDate;return end ? end>=today : (e.sales||[]).some(s=>s.at?.slice(0,10)>=today);});
+          fs.writeFileSync(file,JSON.stringify(d,null,2));
+          NODE
       - name: Refresh domestic YouTube videos
         id: creators
         env:
@@ -52,7 +93,7 @@ jobs:
       - id: deploy
         uses: actions/deploy-pages@v4
       - name: Report source errors after preserving previous data
-        run: node -e "const d=require('./events-data.json');if(d.sources.some(s=>!s.ok))process.exit(1)"
+        run: node /tmp/check-events.cjs
       - name: Report YouTube refresh failure after preserving feed
         if: steps.creators.outcome == 'failure'
         run: exit 1
