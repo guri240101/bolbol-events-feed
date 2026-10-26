@@ -7971,27 +7971,6 @@
       "checkedAt": "2026-10-26T03:33:20.625Z"
     },
     {
-      "id": "concert_notice_18738",
-      "kind": "concert",
-      "title": "단독판매 꽃다지 콘서트 vol. 01 정혜윤 티켓오픈 안내",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18738",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18738",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-26T09:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18738"
-        }
-      ],
-      "checkedAt": "2026-10-26T03:33:20.625Z"
-    },
-    {
       "id": "concert_notice_18735",
       "kind": "concert",
       "title": "단독판매 김건모. 35TH ANNIVERSARY LIVE TOUR - 부산",
@@ -8118,48 +8097,6 @@
           "label": "일반예매",
           "at": "2026-10-30T18:00:00+09:00",
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18726"
-        }
-      ],
-      "checkedAt": "2026-10-26T03:33:20.625Z"
-    },
-    {
-      "id": "concert_notice_18720",
-      "kind": "concert",
-      "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (부산)",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18720",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18720",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-26T12:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18720"
-        }
-      ],
-      "checkedAt": "2026-10-26T03:33:20.625Z"
-    },
-    {
-      "id": "concert_notice_18719",
-      "kind": "concert",
-      "title": "2026 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다 (대구)",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18719",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18719",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-26T12:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18719"
         }
       ],
       "checkedAt": "2026-10-26T03:33:20.625Z"
