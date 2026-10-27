@@ -7943,27 +7943,6 @@
       "checkedAt": "2026-10-26T20:20:57.085Z"
     },
     {
-      "id": "concert_notice_18750",
-      "kind": "concert",
-      "title": "단독판매 [MAN IN CHERRY] CHERRY BOY 17 6th 단독 콘서트 티켓오픈 안내",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18750",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18750",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-27T18:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18750"
-        }
-      ],
-      "checkedAt": "2026-10-26T20:20:57.085Z"
-    },
-    {
       "id": "concert_notice_18745",
       "kind": "concert",
       "title": "SJF at the Theater 2026 - 백예린X윤석철 티켓오픈 안내",
@@ -8053,27 +8032,6 @@
           "label": "팬클럽 선예매",
           "at": "2026-10-27T20:00:00+09:00",
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18734"
-        }
-      ],
-      "checkedAt": "2026-10-26T20:20:57.085Z"
-    },
-    {
-      "id": "concert_notice_18731",
-      "kind": "concert",
-      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 부산",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18731",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18731",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-27T11:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18731"
         }
       ],
       "checkedAt": "2026-10-26T20:20:57.085Z"
