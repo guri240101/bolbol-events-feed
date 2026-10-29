@@ -8173,53 +8173,6 @@
       "checkedAt": "2026-10-28T23:47:55.557Z"
     },
     {
-      "id": "concert_notice_18745",
-      "kind": "concert",
-      "title": "SJF at the Theater 2026 - 백예린X윤석철 티켓오픈 안내",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18745",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18745",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-29T12:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18745"
-        },
-        {
-          "label": "일반예매",
-          "at": "2026-10-14T12:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18642"
-        }
-      ],
-      "checkedAt": "2026-10-28T23:47:55.557Z"
-    },
-    {
-      "id": "concert_notice_18735",
-      "kind": "concert",
-      "title": "단독판매 김건모. 35TH ANNIVERSARY LIVE TOUR - 부산",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18735",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18735",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-29T15:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18735"
-        }
-      ],
-      "checkedAt": "2026-10-28T23:47:55.557Z"
-    },
-    {
       "id": "concert_notice_18728",
       "kind": "concert",
       "title": "2026 김나영 콘서트 “Na” On The Voice : 우리 - 마침내 이곳에 [광주] 티켓오픈 안내",
