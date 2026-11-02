@@ -7326,48 +7326,6 @@
       "checkedAt": "2026-11-01T23:17:32.617Z"
     },
     {
-      "id": "concert_notice_18764",
-      "kind": "concert",
-      "title": "THE GREATEST: 전율 소향 X 김기태 - 서울",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18764",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18764",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T11:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18764"
-        }
-      ],
-      "checkedAt": "2026-11-01T23:17:32.617Z"
-    },
-    {
-      "id": "concert_notice_18763",
-      "kind": "concert",
-      "title": "2026 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 서울앵콜",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18763",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18763",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-02T11:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18763"
-        }
-      ],
-      "checkedAt": "2026-11-01T23:17:32.617Z"
-    },
-    {
       "id": "concert_notice_18757",
       "kind": "concert",
       "title": "단독판매 2026 WAVE of ECLIPSE",
