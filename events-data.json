@@ -7503,27 +7503,6 @@
       "checkedAt": "2026-11-03T01:56:35.718Z"
     },
     {
-      "id": "concert_notice_18779",
-      "kind": "concert",
-      "title": "단독판매 Sophie Powers Asia Tour “MANIC PIXIE” in Seoul",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18779",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18779",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-03T18:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18779"
-        }
-      ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
-    },
-    {
       "id": "concert_notice_18778",
       "kind": "concert",
       "title": "단독판매 AxMxP CONCERT 〈Home Sweet Home〉 : 2026 MAPO Winter Edition",
