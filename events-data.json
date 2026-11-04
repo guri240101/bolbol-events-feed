@@ -1,31 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T01:56:35.718Z",
+  "updatedAt": "2026-11-04T00:19:09.379Z",
   "window": {
-    "from": "2026-11-03",
-    "to": "2027-11-03"
+    "from": "2026-11-04",
+    "to": "2027-11-04"
   },
   "sources": [
     {
       "kind": "festival",
-      "checkedAt": "2026-11-03T01:56:35.718Z",
+      "checkedAt": "2026-11-04T00:19:09.379Z",
       "ok": true,
       "partialFailures": 0,
-      "count": 33
+      "count": 34
     },
     {
       "kind": "concert",
-      "checkedAt": "2026-11-03T01:56:35.718Z",
+      "checkedAt": "2026-11-04T00:19:09.379Z",
       "ok": true,
       "partialFailures": 0,
-      "count": 182
+      "count": 184
     },
     {
       "kind": "marathon",
-      "checkedAt": "2026-11-03T01:56:35.718Z",
+      "checkedAt": "2026-11-04T00:19:09.379Z",
       "ok": true,
       "partialFailures": 0,
-      "count": 195
+      "count": 212
     }
   ],
   "events": [
@@ -43,7 +43,7 @@
       "bookingUrl": "https://blog.naver.com/official_namdang",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_79560056-99eb-4b04-9dc4-3360b888e54e",
@@ -59,7 +59,7 @@
       "bookingUrl": null,
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_174dc17e-b58d-46f1-ae12-8fba1d329f4d",
@@ -75,7 +75,7 @@
       "bookingUrl": "https://yangjae.seocholib.or.kr/NoticeInfoDetail/26288",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_ae25ca2d-4aab-4b5d-9ecb-bedebdf2b037",
@@ -91,7 +91,7 @@
       "bookingUrl": "https://i815.or.kr/2018/news/news.do?mode=V&no=997450&key_bbs_cd=news",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_13641c58-3c7c-4cca-9970-8a6a71491ef5",
@@ -107,7 +107,7 @@
       "bookingUrl": "https://moonlightwalk.kr/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_7828d5f4-9b6a-42c8-90bb-3ca13479e6a6",
@@ -123,7 +123,7 @@
       "bookingUrl": "https://www.hpftf.or.kr/contentsView.do?pageId=www221",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_a27063ab-b3cc-4b61-91a4-5ba82187220c",
@@ -139,7 +139,7 @@
       "bookingUrl": "https://xn--2i0bs4klockyciufozlkwe0my1nh7ub.kr/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_63d35fa7-b042-484a-b91a-c7bb44ac496f",
@@ -155,7 +155,7 @@
       "bookingUrl": "https://www.buyeo.go.kr/html/bcfestival/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_f82af127-89d0-4e8a-8d40-61490ee5553f",
@@ -171,7 +171,7 @@
       "bookingUrl": "https://www.changwon.go.kr/cwportal/depart/11063/14383/14384.web",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_5731ca2a-5bab-4148-94d2-556f59dd0a69",
@@ -187,7 +187,7 @@
       "bookingUrl": "https://www.pajucf.or.kr/business/02_4.php",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hongjoong-global6k-virtual-2026",
@@ -206,7 +206,7 @@
       "registrationDate": "2026-10-06",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_dc6b1834-4dd8-40c4-acf4-9cb13e9c4d0b",
@@ -222,7 +222,7 @@
       "bookingUrl": "https://csapplefestival.kr/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_b2e9613d-0413-4aa1-a874-3e9d82695290",
@@ -238,7 +238,7 @@
       "bookingUrl": "https://gimjang.kr/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_5c6f720a-dd3e-4e54-bd2e-0ed7a72147ee",
@@ -254,7 +254,7 @@
       "bookingUrl": "https://www.gumiramyun.com/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_db96012b-93e4-4c99-8795-54a2c64a0037",
@@ -270,7 +270,23 @@
       "bookingUrl": "http://festival.buncheong.co.kr/main.web",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "festival_60e30da5-2852-4ce7-bfa3-6f8320238d8a",
+      "kind": "festival",
+      "title": "부락페스타",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "venue": "부산대역 1번출구 앞 차없는거리 일원",
+      "region": "부산광역시 금정구",
+      "address": "부산광역시 금정구 장전로12번길 55 (장전동)",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=60e30da5-2852-4ce7-bfa3-6f8320238d8a",
+      "sourceName": "한국관광공사",
+      "bookingUrl": null,
+      "bookingLabel": "공식 홈페이지·예약 안내",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_36794a7a-f6ae-4604-8d85-695f8dc6b953",
@@ -286,7 +302,7 @@
       "bookingUrl": "http://xn--or3b13mug43d97vxwa.kr/main/main.php",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_5a5d9819-72c9-4ced-875e-df9f008c9170",
@@ -302,7 +318,7 @@
       "bookingUrl": "https://sumbifairs.wixsite.com/jejupetfair",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_a22acbfe-72fa-40d3-8e30-d4de62ffaa6b",
@@ -318,7 +334,7 @@
       "bookingUrl": "https://www.uljin.go.kr/tour/index.uljin?menuCd=DOM_000000203006001000",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60763",
@@ -339,7 +355,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18724"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60562",
@@ -360,7 +376,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18690"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59888",
@@ -391,7 +407,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18502"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_mungyeong-seobonggi-2026",
@@ -410,7 +426,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_b4634fc9-d897-4860-90f4-3939832666b6",
@@ -426,7 +442,7 @@
       "bookingUrl": "https://www.gimpo.go.kr/u/53850",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_21318988-6590-40d5-a9ee-d17b806b89a1",
@@ -442,7 +458,7 @@
       "bookingUrl": "https://busanfireworks.com/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_ffde5106-ba8d-47d9-b223-77dbaf7241f2",
@@ -458,7 +474,7 @@
       "bookingUrl": "https://www.xn--4k0b720a3lcv6j.com/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_9777bce9-2290-4da7-9815-112355acf0f3",
@@ -474,7 +490,7 @@
       "bookingUrl": "https://jdlib.sen.go.kr/jdlib/board/index.do?menu_idx=242&manage_idx=2478",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_9d2399dc-1a0f-42f1-a0b3-35b355639811",
@@ -490,7 +506,7 @@
       "bookingUrl": "https://pyeonghwaondam.oopy.io/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60293",
@@ -511,7 +527,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18536"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60160",
@@ -526,7 +542,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60160",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60150",
@@ -541,7 +557,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60150",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60017",
@@ -556,7 +572,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60017",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59933",
@@ -577,7 +593,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18430"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59802",
@@ -592,7 +608,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59802",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59781",
@@ -607,7 +623,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59781",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59468",
@@ -622,7 +638,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59468",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59264",
@@ -637,7 +653,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59264",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59001",
@@ -652,7 +668,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59001",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gukbang-jeonwoo-2026",
@@ -671,7 +687,7 @@
       "registrationDate": "2026-09-07",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeongcheon-dam-2026",
@@ -690,7 +706,7 @@
       "registrationDate": "2026-09-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_buyeo-gutrae-2026",
@@ -709,7 +725,7 @@
       "registrationDate": "2026-06-30",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_busan-runfesta-2026",
@@ -728,7 +744,7 @@
       "registrationDate": "2026-08-07",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_purme-run-2026",
@@ -747,7 +763,7 @@
       "registrationDate": "2026-08-26",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jinhae-marathon-2026",
@@ -766,7 +782,7 @@
       "registrationDate": "2026-08-24",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_mungyeong-legend-trail-2026",
@@ -785,7 +801,7 @@
       "registrationDate": "2026-08-18",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeju-international-ultra-2026",
@@ -804,7 +820,7 @@
       "registrationDate": "2026-06-22",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_namhansanseong-trail-run-2026",
@@ -826,7 +842,7 @@
       "registrationDate": "2026-08-29",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_save-race-2026",
@@ -845,7 +861,7 @@
       "registrationDate": "2026-09-07",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_giverun-gumi-2026",
@@ -864,7 +880,7 @@
       "registrationDate": "2026-08-12",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_canicross-jangsu-2026",
@@ -883,7 +899,7 @@
       "registrationDate": "2026-08-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_justrun10-daejeon-2026",
@@ -902,7 +918,7 @@
       "registrationDate": "2026-09-02",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gongikrun-cheongju-2026",
@@ -921,7 +937,7 @@
       "registrationDate": null,
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sejong-egg-run-2026",
@@ -940,7 +956,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeosu-eleven-bridge-2026",
@@ -959,7 +975,7 @@
       "registrationDate": "2026-09-16",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_miryang-ten-bridges-walk-2026",
@@ -978,7 +994,7 @@
       "registrationDate": "2026-09-21",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_damyang-metasequoia-2026",
@@ -997,7 +1013,7 @@
       "registrationDate": "2026-09-22",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_mexicana-run-with-pepsi-2026",
@@ -1016,7 +1032,7 @@
       "registrationDate": "2026-10-12",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_oncorun-2026",
@@ -1035,7 +1051,7 @@
       "registrationDate": "2026-09-14",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seohae-love-giverun-2026",
@@ -1045,7 +1061,7 @@
       "endDate": "2026-11-07",
       "venue": "청라호수공원 멀티프라자",
       "region": "인천",
-      "address": "청라호수공원 멀티프라자",
+      "address": "인천 서구 청라호수공원 멀티프라자",
       "sourceUrl": "https://runningon.co.kr/races/seohae-love-giverun-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "https://seohaelove.vercel.app/",
@@ -1054,7 +1070,64 @@
       "registrationDate": null,
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_gwangju-recovery-marathon-2026",
+      "kind": "marathon",
+      "title": "제3회 회복마라톤",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "venue": "광주천 천변 (광주교~광천1교)",
+      "region": "광주",
+      "address": "광주천 천변 (광주교~광천1교)",
+      "sourceUrl": "https://runningon.co.kr/races/gwangju-recovery-marathon-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://blog.naver.com/onu1195/224434327844",
+      "bookingUrl": "https://blog.naver.com/onu1195/224434327844",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": null,
+      "registrationStatus": "",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_gongju-bidangaram-eco-missionrun-2026",
+      "kind": "marathon",
+      "title": "2026 비단가람 에코 미션런",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "venue": "아트센터고마 야외광장 및 공주 원도심(금강변 백제이음길·제민천) 일대",
+      "region": "충남",
+      "address": "충남 공주시 고마나루길 90 (아트센터고마)",
+      "sourceUrl": "https://runningon.co.kr/races/gongju-bidangaram-eco-missionrun-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://form.naver.com/response/CbHACkjEC0M",
+      "bookingUrl": "https://form.naver.com/response/CbHACkjEC0M",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": null,
+      "registrationStatus": "PreOrder",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_global6k-goyang-2026",
+      "kind": "marathon",
+      "title": "2026 Global 6K for Water in 고양",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "venue": "일산호수공원 노래하는 분수대",
+      "region": "경기",
+      "address": "경기도 고양시 일산동구 호수로 595",
+      "sourceUrl": "https://runningon.co.kr/races/global6k-goyang-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://docs.google.com/forms/d/e/1FAIpQLScU6OZL4ktzWfYj4NBwPN8Ot_isALEbxymgtQYj5m_3hxYmFg/viewform",
+      "bookingUrl": "https://docs.google.com/forms/d/e/1FAIpQLScU6OZL4ktzWfYj4NBwPN8Ot_isALEbxymgtQYj5m_3hxYmFg/viewform",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": "2026-08-02",
+      "registrationStatus": "SoldOut",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60529",
@@ -1069,7 +1142,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60529",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60514",
@@ -1090,7 +1163,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18634"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60152",
@@ -1105,7 +1178,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60152",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59944",
@@ -1120,7 +1193,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59944",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59858",
@@ -1135,7 +1208,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59858",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59181",
@@ -1150,7 +1223,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59181",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gwacheon-2026",
@@ -1169,7 +1242,7 @@
       "registrationDate": "2026-07-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_busan-heritage-2026",
@@ -1188,7 +1261,7 @@
       "registrationDate": "2026-08-25",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-trail-2026",
@@ -1207,7 +1280,7 @@
       "registrationDate": "2026-07-02",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yangsan-apple-2026",
@@ -1226,7 +1299,7 @@
       "registrationDate": "2026-06-15",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sasang-eco-2026",
@@ -1245,7 +1318,7 @@
       "registrationDate": "2026-08-25",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_songpa-2026",
@@ -1264,7 +1337,7 @@
       "registrationDate": "2026-07-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_anseong-matchum-2026",
@@ -1283,7 +1356,7 @@
       "registrationDate": "2026-09-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jayu-minju-2026",
@@ -1302,7 +1375,7 @@
       "registrationDate": "2026-09-04",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_geoje-aengsan-trail-2026",
@@ -1321,7 +1394,7 @@
       "registrationDate": "2026-06-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_olympic-day-run-2026",
@@ -1340,7 +1413,7 @@
       "registrationDate": "2026-08-24",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gyeongju-yuksang-2026",
@@ -1359,7 +1432,7 @@
       "registrationDate": "2026-07-21",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_volunteer-goodfun-2026",
@@ -1378,7 +1451,7 @@
       "registrationDate": "2026-07-27",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_roundlab-run-2026",
@@ -1397,7 +1470,7 @@
       "registrationDate": "2026-08-07",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_asan-eunhaengnamu-marathon-2026",
@@ -1416,7 +1489,7 @@
       "registrationDate": "2026-08-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gangnam-half-marathon-2026",
@@ -1435,7 +1508,7 @@
       "registrationDate": "2026-09-14",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_haenam-ttangkkeut-marathon-2026",
@@ -1454,7 +1527,7 @@
       "registrationDate": "2026-08-13",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_wanju-mangyeong-marathon-2026",
@@ -1473,7 +1546,7 @@
       "registrationDate": "2026-08-09",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_naju-geumseongsan-marathon-2026",
@@ -1492,7 +1565,7 @@
       "registrationDate": "2026-08-24",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gyeongbuk-docheong-2026",
@@ -1509,14 +1582,14 @@
       "bookingUrl": "http://1004.tbc.co.kr/sub3_1.php",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-09-01",
-      "registrationStatus": "InStock",
+      "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z",
+      "checkedAt": "2026-11-04T00:19:09.379Z",
       "registrationEndDate": "2026-10-16",
       "registrationEndAt": "2026-10-16T16:00:00+09:00",
       "registrationSourceUrl": "https://1004.tbc.co.kr/sub1_1.php",
       "description": "경북도청 천년숲 앞 · 하프·10km·5km. 공식 요강의 신청 마감 시각을 반영합니다. 선착순으로 조기 마감될 수 있습니다.",
-      "registrationCheckedAt": "2026-11-03T01:56:35.718Z",
+      "registrationCheckedAt": "2026-11-04T00:19:09.379Z",
       "registrationCheckError": null
     },
     {
@@ -1536,7 +1609,7 @@
       "registrationDate": "2026-09-04",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_cheongyang-chilgap-2026",
@@ -1555,7 +1628,7 @@
       "registrationDate": null,
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_ansan-run-chairman-cup-2026",
@@ -1565,7 +1638,7 @@
       "endDate": "2026-11-08",
       "venue": "안산호수공원 중앙무대 일대",
       "region": "경기",
-      "address": "안산호수공원 중앙무대 일대",
+      "address": "경기 안산시 안산호수공원 중앙무대 일대",
       "sourceUrl": "https://runningon.co.kr/races/ansan-run-chairman-cup-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "http://aaaf.koreashout.com/",
@@ -1574,7 +1647,7 @@
       "registrationDate": "2026-10-14",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_eworld-83tower-uphill-2026-nov",
@@ -1593,7 +1666,7 @@
       "registrationDate": "2026-10-08",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_a8033994-bf08-4795-8ffb-a3bf947547c8",
@@ -1609,7 +1682,7 @@
       "bookingUrl": "https://noodle-dj.com/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60665",
@@ -1624,7 +1697,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60665",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60299",
@@ -1639,7 +1712,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60299",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hyrox-seoul-2026",
@@ -1658,7 +1731,7 @@
       "registrationDate": "2026-07-24",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_06c85b3f-b302-4025-9cc5-27ec77b3a5ff",
@@ -1674,7 +1747,7 @@
       "bookingUrl": "https://p-petstar.imweb.me/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60764",
@@ -1689,7 +1762,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60764",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60446",
@@ -1715,7 +1788,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18607"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60420",
@@ -1736,7 +1809,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18582"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60412",
@@ -1757,7 +1830,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18606"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60404",
@@ -1772,7 +1845,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60404",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60307",
@@ -1793,7 +1866,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18537"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60257",
@@ -1814,7 +1887,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18510"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60091",
@@ -1829,7 +1902,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60091",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59662",
@@ -1844,7 +1917,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59662",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59552",
@@ -1859,7 +1932,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59552",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_pohang-championship-2026",
@@ -1875,13 +1948,10 @@
       "officialUrl": "https://pohangmarathon.com/",
       "bookingUrl": "https://pohangmarathon.com/marathon_application/app2.asp",
       "bookingLabel": "주최 측 참가 신청",
-      "registrationEndDate": "2026-11-03",
-      "registrationSourceUrl": "https://runningon.co.kr/races/pohang-championship-2026",
-      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-04-13",
-      "registrationStatus": "InStock",
+      "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_anyangcheon-maple-2026",
@@ -1897,13 +1967,13 @@
       "officialUrl": "http://maplerun.kr/",
       "bookingUrl": "http://maplerun.kr/join/register.asp",
       "bookingLabel": "주최 측 참가 신청",
-      "registrationEndDate": "2026-11-05",
+      "registrationEndDate": "2026-11-08",
       "registrationSourceUrl": "https://runningon.co.kr/races/anyangcheon-maple-2026",
       "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-07-31",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_suncheon-namseungryong-2026",
@@ -1922,7 +1992,7 @@
       "registrationDate": "2026-08-03",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_faab-hangang-bridge-run-2026",
@@ -1944,7 +2014,7 @@
       "registrationDate": "2026-08-21",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeongjong-skyway-2026",
@@ -1963,7 +2033,7 @@
       "registrationDate": "2026-08-24",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_tonkeun-run-2026",
@@ -1982,7 +2052,7 @@
       "registrationDate": "2026-09-14",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeungpyeong-retro-run-2026",
@@ -2001,7 +2071,7 @@
       "registrationDate": "2026-09-15",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_global6k-daegu-2026",
@@ -2020,7 +2090,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jebudo-sea-run-2026",
@@ -2039,7 +2109,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-bbangrun-2026",
@@ -2058,7 +2128,7 @@
       "registrationDate": "2026-09-21",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_daejeon-trail-slowrun-2026",
@@ -2068,7 +2138,7 @@
       "endDate": "2026-11-14",
       "venue": "장동만남공원",
       "region": "대전",
-      "address": "장동만남공원",
+      "address": "대전 장동만남공원 (주차: 장동산림욕장 주차장)",
       "sourceUrl": "https://runningon.co.kr/races/daejeon-trail-slowrun-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "https://srtrail.kr/62",
@@ -2077,7 +2147,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeosu-expo-night-run-2026",
@@ -2096,7 +2166,7 @@
       "registrationDate": "2026-10-08",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_goodneighbors-thinkearth-busan-2026",
@@ -2118,7 +2188,7 @@
       "registrationDate": "2026-10-08",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_goyang-windroad-walking-2026",
@@ -2140,7 +2210,7 @@
       "registrationDate": "2026-10-12",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sokcho-welfare-run-2026",
@@ -2159,7 +2229,7 @@
       "registrationDate": "2026-10-19",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_nhis-reboot-walk-sejong-2026",
@@ -2178,7 +2248,70 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_jeokbyeokgang-marathon-2026",
+      "kind": "marathon",
+      "title": "제7회 적벽강 마라톤",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "venue": "금산 인삼골 오토캠핑장",
+      "region": "충남",
+      "address": "충남 금산군 금산 인삼골 오토캠핑장",
+      "sourceUrl": "https://runningon.co.kr/races/jeokbyeokgang-marathon-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://jbr-marathon2026.lovable.app/",
+      "bookingUrl": "https://jbr-marathon2026.lovable.app/",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationEndDate": "2026-11-07",
+      "registrationSourceUrl": "https://runningon.co.kr/races/jeokbyeokgang-marathon-2026",
+      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
+      "registrationDate": "2026-08-10",
+      "registrationStatus": "InStock",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_chuncheon-sunset-island-giverun-2026",
+      "kind": "marathon",
+      "title": "2026 춘천 선셋 아일랜드 기부런",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "venue": "춘천 하중도",
+      "region": "강원",
+      "address": "강원 춘천시 중도동 460",
+      "sourceUrl": "https://runningon.co.kr/races/chuncheon-sunset-island-giverun-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://chun1960.com/bbs/board.php?bo_table=race_info&wr_id=62",
+      "bookingUrl": "https://chun1960.com/bbs/board.php?bo_table=race_info&wr_id=62",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationEndDate": "2026-11-06",
+      "registrationSourceUrl": "https://runningon.co.kr/races/chuncheon-sunset-island-giverun-2026",
+      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
+      "registrationDate": "2026-10-23",
+      "registrationStatus": "InStock",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_run-busan-sunset-run-2026",
+      "kind": "marathon",
+      "title": "달려라부산 러닝페스티벌 선셋런",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "venue": "부산항 북항 친수공원 일대",
+      "region": "부산",
+      "address": "부산항 북항 친수공원 일대",
+      "sourceUrl": "https://runningon.co.kr/races/run-busan-sunset-run-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://runbusanrun.com/festival/overview/",
+      "bookingUrl": "https://event-us.kr/runbusanslowcrew/event/138712",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": "2026-10-28",
+      "registrationStatus": "InStock",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_manual_icheon_choihyunwoo_20261114",
@@ -2221,7 +2354,7 @@
       "bookingUrl": "https://www.busanfolkartfestival.com/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60595",
@@ -2247,7 +2380,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18707"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60276",
@@ -2268,7 +2401,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18540"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59831",
@@ -2283,7 +2416,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59831",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59551",
@@ -2298,7 +2431,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59551",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_garmin-run-2026",
@@ -2317,7 +2450,7 @@
       "registrationDate": "2026-10-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sonkeechung-2026",
@@ -2333,10 +2466,13 @@
       "officialUrl": "https://www.sonkeechungrun.com/",
       "bookingUrl": "https://son.wizrun.com/",
       "bookingLabel": "주최 측 참가 신청",
+      "registrationEndDate": "2026-11-04",
+      "registrationSourceUrl": "https://runningon.co.kr/races/sonkeechung-2026",
+      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-08-09",
-      "registrationStatus": "SoldOut",
+      "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-peace-2026",
@@ -2352,10 +2488,13 @@
       "officialUrl": "https://seoultongilrun.org/",
       "bookingUrl": "https://seoultongilrun.org/26",
       "bookingLabel": "주최 측 참가 신청",
+      "registrationEndDate": "2026-11-14",
+      "registrationSourceUrl": "https://runningon.co.kr/races/seoul-peace-2026",
+      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-07-08",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_mbn-seoul-2026",
@@ -2374,7 +2513,7 @@
       "registrationDate": "2026-09-21",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_happy-trail-2026",
@@ -2393,7 +2532,7 @@
       "registrationDate": "2026-07-19",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeju-gamgyul-2026",
@@ -2412,7 +2551,7 @@
       "registrationDate": "2026-07-06",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gochang-goindol-2026",
@@ -2431,7 +2570,7 @@
       "registrationDate": "2026-07-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_daemosan-trail-2026",
@@ -2450,7 +2589,7 @@
       "registrationDate": "2026-01-15",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sangju-gotgam-2026",
@@ -2469,7 +2608,7 @@
       "registrationDate": "2026-10-15",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_busan-international-2026",
@@ -2488,7 +2627,7 @@
       "registrationDate": "2026-07-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sejong-city-2026",
@@ -2507,7 +2646,7 @@
       "registrationDate": "2026-06-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_mudeungsan-trail-2026",
@@ -2529,7 +2668,7 @@
       "registrationDate": "2026-05-30",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeongnam-alps-half-2026",
@@ -2548,7 +2687,7 @@
       "registrationDate": "2026-09-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_fila-run-espresso-10k-2026",
@@ -2567,7 +2706,7 @@
       "registrationDate": "2026-08-31",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_nanum-race-yongin-2026",
@@ -2584,9 +2723,9 @@
       "bookingUrl": "https://nanumrun.or.kr/",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-08-24",
-      "registrationStatus": "InStock",
+      "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_daejeon-seogu-marathon-2026",
@@ -2605,7 +2744,7 @@
       "registrationDate": "2026-08-28",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gwangryeocheon-2026",
@@ -2615,7 +2754,7 @@
       "endDate": "2026-11-15",
       "venue": "마산회원구 내서읍 신감리 일대",
       "region": "경남",
-      "address": "마산회원구 내서읍 신감리 일대",
+      "address": "경남 창원시 마산회원구 내서읍 광려천 수변공원 일대",
       "sourceUrl": "https://runningon.co.kr/races/gwangryeocheon-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "http://www.cwaaf.kr/",
@@ -2624,7 +2763,7 @@
       "registrationDate": "2026-09-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_changwon-tongil-2026",
@@ -2643,7 +2782,7 @@
       "registrationDate": "2026-09-14",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_econow-run-2026",
@@ -2660,9 +2799,9 @@
       "bookingUrl": "https://econow.campaignus.me/econow_run",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-10-01",
-      "registrationStatus": "InStock",
+      "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_bithumb-nanum-run-2026",
@@ -2681,7 +2820,7 @@
       "registrationDate": "2026-10-06",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeongnam-innovation-city-marathon-2026",
@@ -2691,7 +2830,7 @@
       "endDate": "2026-11-15",
       "venue": "대구혁신도시 신서중앙공원",
       "region": "대구",
-      "address": "대구혁신도시 신서중앙공원",
+      "address": "대구 동구 대구혁신도시 신서중앙공원",
       "sourceUrl": "https://runningon.co.kr/races/yeongnam-innovation-city-marathon-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "http://inno.ynmarathon.kr/home/main.ubs",
@@ -2700,7 +2839,7 @@
       "registrationDate": "2026-10-02",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_songdo-walk-run-2026",
@@ -2722,7 +2861,7 @@
       "registrationDate": "2026-10-09",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_youth-race-seongbuk-2026",
@@ -2741,7 +2880,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gunsan-oseongsan-trail-2026",
@@ -2757,10 +2896,32 @@
       "officialUrl": "https://event-us.kr/jbtriathlon/event/132156",
       "bookingUrl": "https://event-us.kr/jbtriathlon/event/132156",
       "bookingLabel": "주최 측 참가 신청",
+      "registrationEndDate": "2026-11-04",
+      "registrationSourceUrl": "https://runningon.co.kr/races/gunsan-oseongsan-trail-2026",
+      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-08-24",
-      "registrationStatus": "SoldOut",
+      "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_come-back-busan-port-run-2026",
+      "kind": "marathon",
+      "title": "2026 돌아와요 부산항에",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "venue": "부산항 북항친수공원",
+      "region": "부산",
+      "address": "부산 동구 이순신대로 164 (북항친수공원)",
+      "sourceUrl": "https://runningon.co.kr/races/come-back-busan-port-run-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://runnershood.com/",
+      "bookingUrl": "https://runnershood.com/22",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": null,
+      "registrationStatus": "InStock",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60530",
@@ -2775,7 +2936,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60530",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59229",
@@ -2790,7 +2951,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59229",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60766",
@@ -2811,7 +2972,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18716"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59136",
@@ -2826,7 +2987,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59136",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_c25775aa-a6ec-4a31-a836-966860c49da5",
@@ -2842,7 +3003,7 @@
       "bookingUrl": "https://kgcf.kr/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_a1177b14-604c-44e4-9577-b802902397c6",
@@ -2858,7 +3019,7 @@
       "bookingUrl": "http://www.bangeofestival.com/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_1a7b7f32-e5a4-47b1-9e35-4a87499eccd8",
@@ -2874,7 +3035,7 @@
       "bookingUrl": "https://phcf.or.kr/phcf/festival/submain.do?festival_id=FST_LIGHT_2026_001",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59732",
@@ -2889,7 +3050,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59732",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_47cc094e-78e5-4ebc-a7d5-f65430621719",
@@ -2905,7 +3066,7 @@
       "bookingUrl": "https://tour.muan.go.kr/tour/festival/yd_festival/introduce",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60323",
@@ -2920,7 +3081,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60323",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59840",
@@ -2935,7 +3096,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59840",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_870226d8-7912-4405-b4f6-8fadba5ddff0",
@@ -2951,7 +3112,7 @@
       "bookingUrl": "https://www.xn--331br0fh8ct4gsta39jcye4pmo9gg0d0sk.com/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60697",
@@ -2966,7 +3127,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60697",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60642",
@@ -2981,7 +3142,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60642",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60605",
@@ -2996,7 +3157,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60605",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60392",
@@ -3022,7 +3183,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18566"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60205",
@@ -3043,7 +3204,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18482"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60151",
@@ -3058,7 +3219,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60151",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60116",
@@ -3079,7 +3240,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18466"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60018",
@@ -3094,7 +3255,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60018",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_mungs-run-2026",
@@ -3113,7 +3274,7 @@
       "registrationDate": null,
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sejung-urunning-2026",
@@ -3132,7 +3293,7 @@
       "registrationDate": "2026-07-08",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_namhae-trail-fall-2026",
@@ -3151,7 +3312,7 @@
       "registrationDate": "2026-08-27",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_asics-seoul-gofree-run-2026",
@@ -3168,9 +3329,9 @@
       "bookingUrl": "https://gofree.seoul.co.kr/",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-09-01",
-      "registrationStatus": "InStock",
+      "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_giverun-busan-2026",
@@ -3189,7 +3350,7 @@
       "registrationDate": "2026-09-16",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-life-marathon-2026",
@@ -3211,7 +3372,7 @@
       "registrationDate": "2026-08-10",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_justrun10-daegu-2026",
@@ -3233,7 +3394,7 @@
       "registrationDate": "2026-09-11",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_boseong-greentea-autumn-2026",
@@ -3252,7 +3413,7 @@
       "registrationDate": "2026-09-11",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gumi-eco-trail-getr-2026",
@@ -3271,7 +3432,7 @@
       "registrationDate": "2026-09-11",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_k-geosang-trail-2026",
@@ -3290,7 +3451,7 @@
       "registrationDate": "2026-09-28",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_withice-relay-run-2026",
@@ -3300,7 +3461,7 @@
       "endDate": "2026-11-21",
       "venue": "뚝섬한강공원 수변무대",
       "region": "서울",
-      "address": "서울 광진구 자양동 435 (뚝섬한강공원 수변무대)",
+      "address": "서울 광진구 강변북로 2273 (자양동 427-1, 뚝섬한강공원 수변무대)",
       "sourceUrl": "https://runningon.co.kr/races/withice-relay-run-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "https://withice.or.kr/shop_view?idx=188",
@@ -3309,7 +3470,7 @@
       "registrationDate": "2026-10-13",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_namhae-runtrip-fall-2026",
@@ -3331,7 +3492,7 @@
       "registrationDate": "2026-10-16",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_cheonan-independence-trail-2026",
@@ -3353,7 +3514,26 @@
       "registrationDate": "2026-10-22",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_wagurun-2026",
+      "kind": "marathon",
+      "title": "WAGURUN 2026 (와구런)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "venue": "광주 광산구 산월동 824-5",
+      "region": "광주",
+      "address": "광주광역시 광산구 산월동 824-5",
+      "sourceUrl": "https://runningon.co.kr/races/wagurun-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": null,
+      "bookingUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdI59l03OqFfzFW0nzn-XtZojEjmlDxjOK6OKoNkJ0YkAIn1w/viewform",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": null,
+      "registrationStatus": "SoldOut",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60801",
@@ -3368,7 +3548,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60801",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60501",
@@ -3394,7 +3574,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18629"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60497",
@@ -3409,7 +3589,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60497",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60249",
@@ -3424,7 +3604,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60249",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60194",
@@ -3439,7 +3619,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60194",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60140",
@@ -3460,7 +3640,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18487"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59663",
@@ -3475,7 +3655,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59663",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_incheon-marathon-2026",
@@ -3492,9 +3672,9 @@
       "bookingUrl": "https://incheonmarathon.or.kr/23/?idx=13",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-09-07",
-      "registrationStatus": "InStock",
+      "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_peace-forest-marathon-2026",
@@ -3516,7 +3696,7 @@
       "registrationDate": "2026-08-03",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_zeiss-smilerace-2026",
@@ -3535,7 +3715,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-eoksaepul-marathon-2026",
@@ -3554,7 +3734,7 @@
       "registrationDate": "2026-08-24",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_kimdaejung-mokpo-marathon-2026",
@@ -3573,7 +3753,7 @@
       "registrationDate": "2026-09-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_suwon-trail-race-2026",
@@ -3592,7 +3772,7 @@
       "registrationDate": "2026-09-07",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_muju-bandibul-peace-2026",
@@ -3611,7 +3791,7 @@
       "registrationDate": "2026-09-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_planet-run-2026",
@@ -3630,7 +3810,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_moel-worker-marathon-2026",
@@ -3649,7 +3829,7 @@
       "registrationDate": "2026-09-09",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoripul-10k-marathon-2026",
@@ -3668,7 +3848,7 @@
       "registrationDate": "2026-09-18",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_daegu-mayor-cup-athletics-2026",
@@ -3690,7 +3870,7 @@
       "registrationDate": "2026-10-15",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_busan-citizen-relay-2026",
@@ -3700,7 +3880,7 @@
       "endDate": "2026-11-22",
       "venue": "구덕운동장 출발 → 초읍 부산학생교육문화회관",
       "region": "부산",
-      "address": "구덕운동장 출발 → 초읍 부산학생교육문화회관",
+      "address": "부산 서구 망양로 57 (구덕운동장)",
       "sourceUrl": "https://runningon.co.kr/races/busan-citizen-relay-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "https://i1123.org/",
@@ -3712,7 +3892,7 @@
       "registrationDate": "2026-10-13",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_last-run-goodbye-jamsil-2026",
@@ -3731,7 +3911,7 @@
       "registrationDate": "2026-10-22",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60596",
@@ -3746,7 +3926,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60596",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60597",
@@ -3772,7 +3952,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18709"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60792",
@@ -3793,7 +3973,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18732"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60153",
@@ -3808,7 +3988,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60153",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60944",
@@ -3823,7 +4003,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60944",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60912",
@@ -3838,7 +4018,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60912",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60796",
@@ -3859,7 +4039,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18739"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60727",
@@ -3874,7 +4054,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60727",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60439",
@@ -3889,7 +4069,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60439",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60350",
@@ -3910,7 +4090,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18556"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60279",
@@ -3925,7 +4105,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60279",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60259",
@@ -3940,7 +4120,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60259",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59771",
@@ -3955,7 +4135,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59771",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59664",
@@ -3970,7 +4150,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59664",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_namwon-chunhyang-2026",
@@ -3989,7 +4169,7 @@
       "registrationDate": "2026-10-21",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_wyd-peace-run-2026",
@@ -4008,7 +4188,7 @@
       "registrationDate": "2026-08-28",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_mogyok-run-2026",
@@ -4027,7 +4207,7 @@
       "registrationDate": "2026-10-12",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_positive-half-marathon-2026",
@@ -4046,7 +4226,7 @@
       "registrationDate": "2026-08-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gwangju-seogu-gongbubang-giverun-2026",
@@ -4056,7 +4236,7 @@
       "endDate": "2026-11-28",
       "venue": "영산강 자전거길(극락교~서창교) 일대",
       "region": "광주",
-      "address": "영산강 자전거길(극락교~서창교) 일대",
+      "address": "전남광주통합특별시 서구 서창둑길 377",
       "sourceUrl": "https://runningon.co.kr/races/gwangju-seogu-gongbubang-giverun-2026",
       "sourceName": "러닝온 공개 일정",
       "officialUrl": "http://xn--ok0by8pbse4oj.kr/",
@@ -4068,7 +4248,7 @@
       "registrationDate": "2026-10-15",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_kakaopay-longrun-2026",
@@ -4085,9 +4265,9 @@
       "bookingUrl": "https://fest.kakaopay.com/esg/longrun/offline",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-10-20",
-      "registrationStatus": "InStock",
+      "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gimje-trail-revenge-2026",
@@ -4106,7 +4286,26 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_spotv-night-run-kra-2026",
+      "kind": "marathon",
+      "title": "2026 한국마사회와 함께하는 SPOTV NIGHT RUN",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "venue": "렛츠런파크 서울 경주로",
+      "region": "경기",
+      "address": "경기 과천시 경마공원대로 107 (렛츠런파크 서울)",
+      "sourceUrl": "https://runningon.co.kr/races/spotv-night-run-kra-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://www.spotvrun.co.kr/",
+      "bookingUrl": "https://www.spotvrun.co.kr/entryperson",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": "2026-10-31",
+      "registrationStatus": "InStock",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60728",
@@ -4121,7 +4320,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60728",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60451",
@@ -4136,7 +4335,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60451",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60191",
@@ -4157,7 +4356,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18511"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_cheonan-independence-hall-marathon-2026",
@@ -4176,7 +4375,7 @@
       "registrationDate": "2026-07-31",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_ahn-junggeun-peace-marathon-2026",
@@ -4198,7 +4397,7 @@
       "registrationDate": "2026-07-31",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gaya-wangdo-marathon-2026",
@@ -4217,7 +4416,7 @@
       "registrationDate": "2026-08-13",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_saehan-media-marathon-2026",
@@ -4239,7 +4438,7 @@
       "registrationDate": "2026-08-17",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeongeup-premarket-run-2026",
@@ -4261,7 +4460,7 @@
       "registrationDate": "2026-08-18",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_kis-trail-daegu-2026",
@@ -4280,7 +4479,7 @@
       "registrationDate": "2026-08-28",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_wonju-chiak-marathon-2026",
@@ -4297,9 +4496,9 @@
       "bookingUrl": "https://wonju.raceplan.co.kr/entryperson",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-09-16",
-      "registrationStatus": "SoldOut",
+      "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-love-marathon-2026",
@@ -4316,9 +4515,9 @@
       "bookingUrl": "https://seoulloverun.com/register",
       "bookingLabel": "주최 측 참가 신청",
       "registrationDate": "2026-09-23",
-      "registrationStatus": "SoldOut",
+      "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gwangjin-mayor-cup-2026",
@@ -4340,7 +4539,7 @@
       "registrationDate": "2026-09-15",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60915",
@@ -4361,7 +4560,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18767"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60914",
@@ -4376,7 +4575,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60914",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60648",
@@ -4391,7 +4590,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60648",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60510",
@@ -4406,7 +4605,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60510",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59533",
@@ -4421,7 +4620,28 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59533",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "concert_60948",
+      "kind": "concert",
+      "title": "Sophie Powers Asia Tour “MANIC PIXIE” in Seoul",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "venue": "예스24 원더로크홀",
+      "region": "",
+      "sourceUrl": "https://ticket.yes24.com/Perf/60948",
+      "sourceName": "YES24 티켓",
+      "bookingUrl": "https://ticket.yes24.com/Perf/60948",
+      "bookingLabel": "YES24 예매",
+      "sales": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-03T18:00:00+09:00",
+          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18779"
+        }
+      ],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60832",
@@ -4442,7 +4662,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18743"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60622",
@@ -4463,7 +4683,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18610"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60584",
@@ -4478,7 +4698,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60584",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60443",
@@ -4493,7 +4713,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60443",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60410",
@@ -4519,7 +4739,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18622"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60211",
@@ -4545,7 +4765,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18501"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60192",
@@ -4560,7 +4780,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60192",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60174",
@@ -4575,7 +4795,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60174",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60111",
@@ -4590,7 +4810,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60111",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60019",
@@ -4605,7 +4825,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60019",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59553",
@@ -4620,7 +4840,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59553",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_geumsan-goldrun-2026",
@@ -4639,7 +4859,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hangang-citizen-2026",
@@ -4661,7 +4881,7 @@
       "registrationDate": "2026-08-01",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hanam-misa-energy-run-2026",
@@ -4680,7 +4900,7 @@
       "registrationDate": "2026-08-03",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_sawe-invitational-geumsan-2026",
@@ -4699,7 +4919,7 @@
       "registrationDate": "2026-09-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_oakvalley-winter-half-2026",
@@ -4718,7 +4938,7 @@
       "registrationDate": "2026-09-11",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gardenfive-life-race-2026",
@@ -4740,7 +4960,7 @@
       "registrationDate": "2026-09-10",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hug-run-2026",
@@ -4759,7 +4979,7 @@
       "registrationDate": "2026-10-06",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_earth-ulsan-run-2026",
@@ -4778,7 +4998,7 @@
       "registrationDate": "2026-11-02",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_moak-trail-run-2026",
@@ -4800,7 +5020,52 @@
       "registrationDate": "2026-10-26",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_yugwansun-peace-marathon-2026",
+      "kind": "marathon",
+      "title": "2026 유관순 평화마라톤 대회",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "venue": "천안 독립기념관 겨레의 큰 마당",
+      "region": "충남",
+      "address": "충남 천안시 동남구 목천읍 독립기념관로 1",
+      "sourceUrl": "https://runningon.co.kr/races/yugwansun-peace-marathon-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://ryugwansun.co.kr/",
+      "bookingUrl": "https://ryugwansun.co.kr/apply/guide",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": "2026-11-06",
+      "registrationStatus": "PreOrder",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "concert_60950",
+      "kind": "concert",
+      "title": "AxMxP CONCERT 〈Home Sweet Home〉 : 2026 Mapo Winter Edition",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "venue": "마포아트센터 아트홀맥",
+      "region": "",
+      "sourceUrl": "https://ticket.yes24.com/Perf/60950",
+      "sourceName": "YES24 티켓",
+      "bookingUrl": "https://ticket.yes24.com/Perf/60950",
+      "bookingLabel": "YES24 예매",
+      "sales": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-09T20:00:00+09:00",
+          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18778"
+        },
+        {
+          "label": "팬클럽 선예매",
+          "at": "2026-11-05T20:00:00+09:00",
+          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18778"
+        }
+      ],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60598",
@@ -4821,7 +5086,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18657"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60558",
@@ -4842,7 +5107,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18644"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60352",
@@ -4857,7 +5122,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60352",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60346",
@@ -4872,7 +5137,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60346",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59963",
@@ -4887,7 +5152,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59963",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_busan-bridge-2026",
@@ -4906,7 +5171,7 @@
       "registrationDate": "2026-10-26",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yangsan-half-2026",
@@ -4925,7 +5190,7 @@
       "registrationDate": "2026-10-26",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hwang-youngjo-road-race-2026",
@@ -4947,7 +5212,7 @@
       "registrationDate": "2026-08-14",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_youth-run-2026",
@@ -4969,7 +5234,7 @@
       "registrationDate": "2026-09-09",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_daejeon-bomunsan-trail-2026",
@@ -4991,7 +5256,7 @@
       "registrationDate": "2026-08-28",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeongeup-gohyang-love-2026",
@@ -5013,7 +5278,7 @@
       "registrationDate": "2026-09-22",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hwasun-goindol-marathon-2026",
@@ -5032,7 +5297,7 @@
       "registrationDate": "2026-10-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59230",
@@ -5047,7 +5312,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59230",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60795",
@@ -5062,7 +5327,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60795",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60700",
@@ -5083,7 +5348,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18691"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60113",
@@ -5098,7 +5363,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60113",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60843",
@@ -5113,7 +5378,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60843",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60748",
@@ -5128,7 +5393,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60748",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60745",
@@ -5149,7 +5414,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18700"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60676",
@@ -5170,7 +5435,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18699"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60424",
@@ -5185,7 +5450,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60424",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60203",
@@ -5206,7 +5471,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18522"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60154",
@@ -5221,7 +5486,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60154",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59665",
@@ -5236,7 +5501,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59665",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hope-dream-run-2026",
@@ -5252,13 +5517,10 @@
       "officialUrl": "https://gibukidsrun.kr/",
       "bookingUrl": "https://gibukidsrun.kr/",
       "bookingLabel": "주최 측 참가 신청",
-      "registrationEndDate": "2026-11-06",
-      "registrationSourceUrl": "https://runningon.co.kr/races/hope-dream-run-2026",
-      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-07-01",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_positive-power-marathon-2026",
@@ -5274,13 +5536,13 @@
       "officialUrl": "https://www.powerrun.kr/",
       "bookingUrl": "https://www.powerrun.kr/join/register.asp?ptype=P",
       "bookingLabel": "주최 측 참가 신청",
-      "registrationEndDate": "2026-12-02",
+      "registrationEndDate": "2026-11-04",
       "registrationSourceUrl": "https://runningon.co.kr/races/positive-power-marathon-2026",
       "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-08-30",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeongjong-one-more-run-2026",
@@ -5299,7 +5561,7 @@
       "registrationDate": "2026-09-14",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yonhap-hanam-trail-festival-2026",
@@ -5318,7 +5580,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seongnam-heritage-run-2026",
@@ -5337,7 +5599,7 @@
       "registrationDate": "2026-10-22",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_pyeongchang-snow-run-2026",
@@ -5359,7 +5621,7 @@
       "registrationDate": "2026-10-24",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60839",
@@ -5380,7 +5642,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18761"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60511",
@@ -5395,7 +5657,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60511",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60422",
@@ -5410,7 +5672,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60422",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60421",
@@ -5425,7 +5687,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60421",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60363",
@@ -5446,7 +5708,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18569"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jinju-marathon-2026",
@@ -5465,7 +5727,7 @@
       "registrationDate": "2026-09-14",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gijang-athletics-2026",
@@ -5484,7 +5746,7 @@
       "registrationDate": "2026-07-27",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_bamseom-marathon-2026",
@@ -5506,7 +5768,7 @@
       "registrationDate": "2026-07-24",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_busan-geumjeong-sanseong-trail-2026",
@@ -5525,7 +5787,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_iljasan-trail-running-2026",
@@ -5547,7 +5809,7 @@
       "registrationDate": "2026-10-10",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_season-end-marathon-2026",
@@ -5569,7 +5831,48 @@
       "registrationDate": "2026-10-20",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_winter-kingdom-race-2026",
+      "kind": "marathon",
+      "title": "2026 대한육상연맹과 함께하는 겨울왕국레이스",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "venue": "안양천 신정교 하부 육상트랙구장",
+      "region": "서울",
+      "address": "안양천 신정교 하부 육상트랙구장",
+      "sourceUrl": "https://runningon.co.kr/races/winter-kingdom-race-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://www.instagram.com/krc_kor/",
+      "bookingUrl": "https://play.google.com/store/apps/details?id=com.kaaf.krun",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": "2026-11-04",
+      "registrationStatus": "PreOrder",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_asan-yisunsin-run-festa-2026",
+      "kind": "marathon",
+      "title": "2026 이순신 런 페스타",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "venue": "아산 신정호 국민관광지 야외음악당",
+      "region": "충남",
+      "address": "아산 신정호 국민관광지 야외음악당",
+      "sourceUrl": "https://runningon.co.kr/races/asan-yisunsin-run-festa-2026",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://yssmarathon.com/",
+      "bookingUrl": "https://yssmarathon.com/apply/",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationEndDate": "2026-12-02",
+      "registrationSourceUrl": "https://runningon.co.kr/races/asan-yisunsin-run-festa-2026",
+      "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
+      "registrationDate": "2026-11-03",
+      "registrationStatus": "InStock",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60589",
@@ -5584,7 +5887,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60589",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60544",
@@ -5599,7 +5902,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60544",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60280",
@@ -5614,7 +5917,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60280",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60949",
@@ -5635,7 +5938,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18781"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60938",
@@ -5656,7 +5959,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18763"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60934",
@@ -5671,7 +5974,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60934",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60909",
@@ -5686,7 +5989,28 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60909",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "concert_60855",
+      "kind": "concert",
+      "title": "[김해] THE PLAYER Season 4 〈HYNN(박혜원) in 김해：White Night〉",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "venue": "김해서부문화센터 하늬홀",
+      "region": "",
+      "sourceUrl": "https://ticket.yes24.com/Perf/60855",
+      "sourceName": "YES24 티켓",
+      "bookingUrl": "https://ticket.yes24.com/Perf/60855",
+      "bookingLabel": "YES24 예매",
+      "sales": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-04T14:00:00+09:00",
+          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18776"
+        }
+      ],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60703",
@@ -5707,7 +6031,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18611"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60702",
@@ -5722,7 +6046,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60702",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60655",
@@ -5743,7 +6067,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18665"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60208",
@@ -5758,7 +6082,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60208",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60020",
@@ -5773,7 +6097,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60020",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59993",
@@ -5788,7 +6112,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59993",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59886",
@@ -5803,7 +6127,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59886",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_youngrun-relay-marathon-2026",
@@ -5825,7 +6149,7 @@
       "registrationDate": "2026-08-10",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60905",
@@ -5846,7 +6170,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18768"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60757",
@@ -5861,7 +6185,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60757",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60725",
@@ -5876,7 +6200,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60725",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60698",
@@ -5891,7 +6215,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60698",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59777",
@@ -5906,7 +6230,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59777",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59669",
@@ -5921,7 +6245,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59669",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_slowrun-marathon-2026",
@@ -5940,7 +6264,7 @@
       "registrationDate": "2026-09-20",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60713",
@@ -5955,7 +6279,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60713",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60701",
@@ -5970,7 +6294,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60701",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60922",
@@ -5991,7 +6315,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18770"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60838",
@@ -6012,7 +6336,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18755"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60769",
@@ -6033,7 +6357,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18723"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60657",
@@ -6048,7 +6372,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60657",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60621",
@@ -6063,7 +6387,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60621",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60536",
@@ -6078,7 +6402,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60536",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59666",
@@ -6093,7 +6417,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59666",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60844",
@@ -6108,7 +6432,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60844",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60777",
@@ -6123,7 +6447,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60777",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60729",
@@ -6138,7 +6462,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60729",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60672",
@@ -6159,7 +6483,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18682"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60667",
@@ -6180,7 +6504,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18675"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60571",
@@ -6195,7 +6519,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60571",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60547",
@@ -6210,7 +6534,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60547",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60021",
@@ -6225,7 +6549,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60021",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59827",
@@ -6240,7 +6564,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59827",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_osk-seoul-dulle-100mile-winter-2026",
@@ -6259,7 +6583,7 @@
       "registrationDate": "2026-07-28",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_beatempo-korea-2026",
@@ -6278,7 +6602,7 @@
       "registrationDate": "2026-10-06",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60926",
@@ -6299,7 +6623,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18772"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60785",
@@ -6320,7 +6644,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18733"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60779",
@@ -6335,7 +6659,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60779",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60634",
@@ -6356,7 +6680,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18676"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60601",
@@ -6377,7 +6701,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18673"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60546",
@@ -6392,7 +6716,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60546",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60238",
@@ -6407,7 +6731,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60238",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60209",
@@ -6422,7 +6746,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60209",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_59997",
@@ -6437,7 +6761,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/59997",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_korea-season-race-2026",
@@ -6453,13 +6777,13 @@
       "officialUrl": "http://k-run.kr/",
       "bookingUrl": "http://k-run.kr/join/register.asp",
       "bookingLabel": "주최 측 참가 신청",
-      "registrationEndDate": "2026-12-16",
+      "registrationEndDate": "2026-11-04",
       "registrationSourceUrl": "https://runningon.co.kr/races/korea-season-race-2026",
       "registrationEvidence": "수집 사이트의 접수 FAQ · 조기 마감은 신청 사이트 확인",
       "registrationDate": "2026-08-25",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60892",
@@ -6474,7 +6798,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60892",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60797",
@@ -6489,7 +6813,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60797",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60656",
@@ -6504,7 +6828,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60656",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60604",
@@ -6525,7 +6849,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18674"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60509",
@@ -6546,7 +6870,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18623"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gyeongju-namsan-tongpo-trail-2026",
@@ -6565,7 +6889,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60860",
@@ -6586,7 +6910,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18695"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60845",
@@ -6601,7 +6925,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60845",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60590",
@@ -6622,7 +6946,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18637"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_e79ad504-4e44-46d4-950c-cff9292665c1",
@@ -6638,7 +6962,7 @@
       "bookingUrl": "https://www.festival700.or.kr/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_saehae-ilchulrun-2027",
@@ -6660,12 +6984,31 @@
       "registrationDate": "2026-10-28",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_sunyang-maenmom-marathon-2027",
+      "kind": "marathon",
+      "title": "2027 선양 맨몸마라톤",
+      "startDate": "2027-01-01",
+      "endDate": "2027-01-01",
+      "venue": "대전 엑스포과학공원 물빛광장(한빛탑 앞 광장)",
+      "region": "대전",
+      "address": "대전광역시 유성구 대덕대로 480 (도룡동 3-1)",
+      "sourceUrl": "https://runningon.co.kr/races/sunyang-maenmom-marathon-2027",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://www.djmmrun.co.kr/",
+      "bookingUrl": "https://www.djmmrun.co.kr/sub.php?code=02_part01",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": "2026-11-09",
+      "registrationStatus": "PreOrder",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60212",
       "kind": "concert",
-      "title": "[광주] 2026 조용필 ＆ 위대한탄생 콘서트",
+      "title": "[광주] 2026-27 조용필 ＆ 위대한탄생 콘서트",
       "startDate": "2027-01-02",
       "endDate": "2027-01-02",
       "venue": "김대중컨벤션센터 전시장",
@@ -6675,7 +7018,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60212",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_daegu-newyear-naked-marathon-2027",
@@ -6697,7 +7040,7 @@
       "registrationDate": "2026-10-28",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_02a1c2ab-bce7-404a-9c8f-4eb4ac69acb3",
@@ -6713,7 +7056,7 @@
       "bookingUrl": "https://www.narafestival.com/01_icenara/",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60833",
@@ -6734,12 +7077,12 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18718"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60215",
       "kind": "concert",
-      "title": "[인천] 2026 조용필 ＆ 위대한탄생 콘서트",
+      "title": "[인천] 2026-27 조용필 ＆ 위대한탄생 콘서트",
       "startDate": "2027-01-09",
       "endDate": "2027-01-09",
       "venue": "인천 송도컨벤시아",
@@ -6749,7 +7092,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60215",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60147",
@@ -6764,7 +7107,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60147",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeonmahyeop-newyear-winter-2027",
@@ -6786,7 +7129,26 @@
       "registrationDate": "2026-10-12",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_yeosu-marine-marathon-2027",
+      "kind": "marathon",
+      "title": "제21회 여수해양마라톤대회",
+      "startDate": "2027-01-10",
+      "endDate": "2027-01-10",
+      "venue": "여수 진남경기장",
+      "region": "전남",
+      "address": "전남 여수시 진남체육관길 74",
+      "sourceUrl": "https://runningon.co.kr/races/yeosu-marine-marathon-2027",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "http://ysmarathon.co.kr/",
+      "bookingUrl": "http://ysmarathon.co.kr/participation/person",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": "2026-11-09",
+      "registrationStatus": "PreOrder",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "festival_e545101d-5bed-4a95-85c2-9ad0b15a84a6",
@@ -6802,7 +7164,7 @@
       "bookingUrl": "https://gcwcf.or.kr/w1_c_6_1/5",
       "bookingLabel": "공식 홈페이지·예약 안내",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeju-4full-2027",
@@ -6824,7 +7186,7 @@
       "registrationDate": "2026-10-09",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60901",
@@ -6845,7 +7207,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18766"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60737",
@@ -6860,7 +7222,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60737",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60207",
@@ -6874,14 +7236,8 @@
       "sourceName": "YES24 티켓",
       "bookingUrl": "https://ticket.yes24.com/Perf/60207",
       "bookingLabel": "YES24 예매",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-10-07T12:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18427"
-        }
-      ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jeju-10km-2027",
@@ -6900,7 +7256,7 @@
       "registrationDate": null,
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60411",
@@ -6915,7 +7271,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60411",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60837",
@@ -6930,7 +7286,7 @@
       "bookingUrl": "https://ticket.yes24.com/Perf/60837",
       "bookingLabel": "YES24 예매",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_goheung-nuriho-2027",
@@ -6952,7 +7308,7 @@
       "registrationDate": "2026-10-16",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_haenam-ttangkkeut-marathon-2027",
@@ -6971,7 +7327,7 @@
       "registrationDate": null,
       "registrationStatus": "PreOrder",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_cheongju-musimcheon-sat-2027",
@@ -6993,7 +7349,7 @@
       "registrationDate": "2026-09-16",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_miryang-arirang-marathon-2027",
@@ -7012,7 +7368,7 @@
       "registrationDate": "2026-11-02",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_cheongju-musimcheon-noeul-2027",
@@ -7031,7 +7387,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_cheongju-musimcheon-sun-2027",
@@ -7053,7 +7409,7 @@
       "registrationDate": "2026-09-17",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_60647",
@@ -7074,7 +7430,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18664"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_winter-marathon-2027",
@@ -7093,7 +7449,26 @@
       "registrationDate": "2026-11-12",
       "registrationStatus": "PreOrder",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_mubak-manse-walk-2027",
+      "kind": "marathon",
+      "title": "3.1절 108주년 기념 제20회 120Km 무박만세걷기",
+      "startDate": "2027-02-27",
+      "endDate": "2027-02-28",
+      "venue": "훈련원공원 (을지로 국립의료원 옆)",
+      "region": "서울",
+      "address": "훈련원공원 (을지로 국립의료원 옆)",
+      "sourceUrl": "https://runningon.co.kr/races/mubak-manse-walk-2027",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://www.walking.or.kr/02_05/",
+      "bookingUrl": "https://www.walking.or.kr/02_05/",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": null,
+      "registrationStatus": "InStock",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_daegu-marathon-2027",
@@ -7112,7 +7487,7 @@
       "registrationDate": "2026-10-26",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_goguryeo-marathon-2027",
@@ -7131,7 +7506,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_moneytoday-samiljeol-marathon-2027",
@@ -7150,7 +7525,7 @@
       "registrationDate": null,
       "registrationStatus": "PreOrder",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_geumsan-insam-wellbeing-2027",
@@ -7169,7 +7544,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_namsan-ujeong-2027",
@@ -7188,7 +7563,7 @@
       "registrationDate": "2026-03-22",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-marathon-2027",
@@ -7207,7 +7582,7 @@
       "registrationDate": "2026-06-01",
       "registrationStatus": "SoldOut",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_hapcheon-cherry-blossom-2027",
@@ -7226,7 +7601,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_yeonggwang-gwangpung-2027",
@@ -7248,7 +7623,26 @@
       "registrationDate": "2026-09-17",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_jangsu-trail-spring-2027",
+      "kind": "marathon",
+      "title": "2027 장수트레일레이스 Spring",
+      "startDate": "2027-04-02",
+      "endDate": "2027-04-04",
+      "venue": "전북 장수군 (장소 추후 공지)",
+      "region": "전북",
+      "address": "전북 장수군 (장소 추후 공지)",
+      "sourceUrl": "https://runningon.co.kr/races/jangsu-trail-spring-2027",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://rocknrun.kr/",
+      "bookingUrl": "https://rocknrun.kr/",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": null,
+      "registrationStatus": "",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_patagonia-jeju-trail-2027",
@@ -7267,7 +7661,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_incheon-k-marathon-2027",
@@ -7289,7 +7683,7 @@
       "registrationDate": "2026-10-22",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-trailrun-2027",
@@ -7308,7 +7702,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_gijang-oceanview-marathon-2027",
@@ -7327,7 +7721,7 @@
       "registrationDate": "2026-11-01",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_utmb-index-17san-90k-2027",
@@ -7346,7 +7740,7 @@
       "registrationDate": "2026-03-17",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_deogyusan-yukgu-trail-2027",
@@ -7365,7 +7759,7 @@
       "registrationDate": "2026-01-01",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_seoul-citizen-marathon-2027",
@@ -7384,7 +7778,26 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "marathon_sawe-invitational-geumsan-2027",
+      "kind": "marathon",
+      "title": "사바스티안 사웨 월드 레코드 금산 국제 마라톤 축제 2027",
+      "startDate": "2027-05-15",
+      "endDate": "2027-05-15",
+      "venue": "금산세계인삼엑스포광장",
+      "region": "충남",
+      "address": "충남 금산군 금산읍 신대리 408 (금산세계인삼엑스포광장)",
+      "sourceUrl": "https://runningon.co.kr/races/sawe-invitational-geumsan-2027",
+      "sourceName": "러닝온 공개 일정",
+      "officialUrl": "https://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
+      "bookingUrl": "https://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d",
+      "bookingLabel": "주최 측 참가 신청",
+      "registrationDate": null,
+      "registrationStatus": "PreOrder",
+      "sales": [],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_jirisan-utmb-itra-2027",
@@ -7403,7 +7816,7 @@
       "registrationDate": "2026-05-25",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_samsam-trailrun-uijeongbu-2027",
@@ -7422,7 +7835,7 @@
       "registrationDate": null,
       "registrationStatus": "",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_ansan-inwangsan-bugaksan-trail-2027",
@@ -7441,7 +7854,7 @@
       "registrationDate": "2026-07-01",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_uiit-ulleungdo-trail-2027",
@@ -7460,7 +7873,7 @@
       "registrationDate": null,
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "marathon_cheonggye-beombawi-inreungsan-trail-2027",
@@ -7479,7 +7892,49 @@
       "registrationDate": "2026-06-20",
       "registrationStatus": "InStock",
       "sales": [],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "concert_notice_18784",
+      "kind": "concert",
+      "title": "2026 이병찬 서울 콘서트 : 찬 좋은 콘서트",
+      "startDate": null,
+      "endDate": null,
+      "venue": "공연일·장소는 예매 공지 확인",
+      "region": "",
+      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18784",
+      "sourceName": "YES24 티켓오픈 공지",
+      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18784",
+      "bookingLabel": "예매 공지·접수 링크",
+      "sales": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-06T11:00:00+09:00",
+          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18784"
+        }
+      ],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
+    },
+    {
+      "id": "concert_notice_18783",
+      "kind": "concert",
+      "title": "단독판매 Jeff Bernat Live: Luv Language Tour 2027 in Seoul",
+      "startDate": null,
+      "endDate": null,
+      "venue": "공연일·장소는 예매 공지 확인",
+      "region": "",
+      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18783",
+      "sourceName": "YES24 티켓오픈 공지",
+      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18783",
+      "bookingLabel": "예매 공지·접수 링크",
+      "sales": [
+        {
+          "label": "일반예매",
+          "at": "2026-11-10T12:00:00+09:00",
+          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18783"
+        }
+      ],
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_notice_18780",
@@ -7500,54 +7955,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18780"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
-    },
-    {
-      "id": "concert_notice_18778",
-      "kind": "concert",
-      "title": "단독판매 AxMxP CONCERT 〈Home Sweet Home〉 : 2026 MAPO Winter Edition",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18778",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18778",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-09T20:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18778"
-        },
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-05T20:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18778"
-        }
-      ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
-    },
-    {
-      "id": "concert_notice_18776",
-      "kind": "concert",
-      "title": "단독판매 [김해] THE PLAYER Season 4 〈HYNN(박혜원) in 김해：White Night〉",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18776",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18776",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-04T14:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18776"
-        }
-      ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     },
     {
       "id": "concert_notice_18757",
@@ -7568,7 +7976,7 @@
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18757"
         }
       ],
-      "checkedAt": "2026-11-03T01:56:35.718Z"
+      "checkedAt": "2026-11-04T00:19:09.379Z"
     }
   ]
 }
