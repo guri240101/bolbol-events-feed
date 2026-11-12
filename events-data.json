@@ -7432,27 +7432,6 @@
       "checkedAt": "2026-11-12T01:45:31.076Z"
     },
     {
-      "id": "concert_notice_18825",
-      "kind": "concert",
-      "title": "단독판매 2026 WAVE of ECLIPSE FANPORT 패키지 오픈 안내",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18825",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18825",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T20:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18825"
-        }
-      ],
-      "checkedAt": "2026-11-12T01:45:31.076Z"
-    },
-    {
       "id": "concert_notice_18822",
       "kind": "concert",
       "title": "2027 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 대전",
@@ -7469,48 +7448,6 @@
           "label": "일반예매",
           "at": "2026-11-16T11:00:00+09:00",
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18822"
-        }
-      ],
-      "checkedAt": "2026-11-12T01:45:31.076Z"
-    },
-    {
-      "id": "concert_notice_18821",
-      "kind": "concert",
-      "title": "[비지정석] 2026 김장훈 전국투어 콘서트 : 원맨쇼 - 고양",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18821",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18821",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T10:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18821"
-        }
-      ],
-      "checkedAt": "2026-11-12T01:45:31.076Z"
-    },
-    {
-      "id": "concert_notice_18820",
-      "kind": "concert",
-      "title": "[비지정석] THE GREATEST : 전율 소향 X 김기태 - 고양",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18820",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18820",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-12T10:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18820"
         }
       ],
       "checkedAt": "2026-11-12T01:45:31.076Z"
