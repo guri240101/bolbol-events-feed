@@ -6485,27 +6485,6 @@
       "checkedAt": "2026-11-15T23:40:56.604Z"
     },
     {
-      "id": "concert_notice_18822",
-      "kind": "concert",
-      "title": "2027 변진섭 전국투어 콘서트 : 변천사 시즌2.7 : 시간여행 - 대전",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18822",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18822",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-16T11:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18822"
-        }
-      ],
-      "checkedAt": "2026-11-15T23:40:56.604Z"
-    },
-    {
       "id": "concert_notice_18817",
       "kind": "concert",
       "title": "단독판매 버추얼 크리에이터 ‘위도(W2RDØ)’ 1st SOLO Concert 〈ABYSSAL GLOW〉 티켓오픈 안내",
@@ -6532,32 +6511,6 @@
           "label": "파도 등급 선예매",
           "at": "2026-11-23T19:00:00+09:00",
           "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18817"
-        }
-      ],
-      "checkedAt": "2026-11-15T23:40:56.604Z"
-    },
-    {
-      "id": "concert_notice_18806",
-      "kind": "concert",
-      "title": "단독판매 DEVIL YOUTH CLUB MCND 2026 CONCERT IN SEOUL 티켓오픈 안내",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18806",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18806",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-16T20:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18806"
-        },
-        {
-          "label": "팬클럽 선예매",
-          "at": "2026-11-13T20:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18806"
         }
       ],
       "checkedAt": "2026-11-15T23:40:56.604Z"
