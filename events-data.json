@@ -6746,27 +6746,6 @@
       "checkedAt": "2026-11-19T01:36:30.239Z"
     },
     {
-      "id": "concert_notice_18854",
-      "kind": "concert",
-      "title": "2026 이상우 전국투어 콘서트 : 청기백기 - 서울",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18854",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18854",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-19T11:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18854"
-        }
-      ],
-      "checkedAt": "2026-11-19T01:36:30.239Z"
-    },
-    {
       "id": "concert_notice_18845",
       "kind": "concert",
       "title": "2027 SUPER JUNIOR-D&E LIVE TOUR D&ESTIVAL: The 15/15",
