@@ -5548,27 +5548,6 @@
       "checkedAt": "2026-11-23T00:33:52.928Z"
     },
     {
-      "id": "concert_notice_18867",
-      "kind": "concert",
-      "title": "체리필터 연말 콘서트 〈COME TO THE CHERRYFILTER〉 : 2026 Mapo Winter Edition 티켓 오픈 안..",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18867",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18867",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-23T20:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18867"
-        }
-      ],
-      "checkedAt": "2026-11-23T00:33:52.928Z"
-    },
-    {
       "id": "concert_notice_18865",
       "kind": "concert",
       "title": "[부산] 2026-2027 마이진 콘서트 〈ORIGIN〉",
