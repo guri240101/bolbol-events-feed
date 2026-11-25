@@ -5875,48 +5875,6 @@
       "checkedAt": "2026-11-25T03:17:22.022Z"
     },
     {
-      "id": "concert_notice_18893",
-      "kind": "concert",
-      "title": "2027 김정민 전국투어 : 정민이형 콘서트 - 충주",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18893",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18893",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T11:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18893"
-        }
-      ],
-      "checkedAt": "2026-11-25T03:17:22.022Z"
-    },
-    {
-      "id": "concert_notice_18892",
-      "kind": "concert",
-      "title": "2027 박남정 전국투어 콘서트 : The Original SuperStar - 충주",
-      "startDate": null,
-      "endDate": null,
-      "venue": "공연일·장소는 예매 공지 확인",
-      "region": "",
-      "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18892",
-      "sourceName": "YES24 티켓오픈 공지",
-      "bookingUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18892",
-      "bookingLabel": "예매 공지·접수 링크",
-      "sales": [
-        {
-          "label": "일반예매",
-          "at": "2026-11-25T11:00:00+09:00",
-          "sourceUrl": "https://ticket.yes24.com/New/Notice/NoticeMain.aspx#id=18892"
-        }
-      ],
-      "checkedAt": "2026-11-25T03:17:22.022Z"
-    },
-    {
       "id": "concert_notice_18889",
       "kind": "concert",
       "title": "나의 히어로 아카데미아 in 콘서트 티켓오픈 안내",
